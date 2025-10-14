@@ -1,0 +1,80 @@
+Matrix:[[0 1 1 1]
+ [0 0 0 0]
+ [0 0 0 0]
+ [0 0 0 0]], Op_list:['avg_pool_3x3', 'skip_connect', 'none', 'nor_conv_1x1', 'none', 'none'], Mean_ACC in cifar10_valid:86.0060000122070392, Mean_ACC in cifar10_test:89.1099999999999994, Mean_ACC in cifar100_valid:62.2999999755859335, Mean_ACC in cifar100_test:62.6600000030517634, Mean_ACC in ImageNet_valid:33.3833332926432291, Mean_ACC in ImageNet_test:32.9333333180745456
+Matrix:[[0 1 1 1]
+ [0 0 1 1]
+ [0 0 0 1]
+ [0 0 0 0]], Op_list:['skip_connect', 'avg_pool_3x3', 'skip_connect', 'skip_connect', 'nor_conv_1x1', 'skip_connect'], Mean_ACC in cifar10_valid:75.2440000008137986, Mean_ACC in cifar10_test:79.3166666666666629, Mean_ACC in cifar100_valid:44.3066666544596330, Mean_ACC in cifar100_test:44.5733333251953141, Mean_ACC in ImageNet_valid:23.1999999474419489, Mean_ACC in ImageNet_test:21.8999999847412106
+Matrix:[[0 1 1 1]
+ [0 0 1 1]
+ [0 0 0 1]
+ [0 0 0 0]], Op_list:['nor_conv_3x3', 'avg_pool_3x3', 'avg_pool_3x3', 'skip_connect', 'skip_connect', 'avg_pool_3x3'], Mean_ACC in cifar10_valid:83.5480000195312442, Mean_ACC in cifar10_test:87.0799999999999983, Mean_ACC in cifar100_valid:57.8599999633789039, Mean_ACC in cifar100_test:57.7399999877929702, Mean_ACC in ImageNet_valid:32.3999998881022151, Mean_ACC in ImageNet_test:30.3999999186197911
+Matrix:[[0 1 0 1]
+ [0 0 1 1]
+ [0 0 0 1]
+ [0 0 0 0]], Op_list:['avg_pool_3x3', 'none', 'nor_conv_3x3', 'nor_conv_3x3', 'skip_connect', 'avg_pool_3x3'], Mean_ACC in cifar10_valid:86.9319999926757845, Mean_ACC in cifar10_test:91.2099999999999937, Mean_ACC in cifar100_valid:65.2999999511718698, Mean_ACC in cifar100_test:66.0399999145507763, Mean_ACC in ImageNet_valid:36.8666666666666671, Mean_ACC in ImageNet_test:36.9000000610351577
+Matrix:[[0 1 1 1]
+ [0 0 1 0]
+ [0 0 0 1]
+ [0 0 0 0]], Op_list:['skip_connect', 'nor_conv_1x1', 'skip_connect', 'skip_connect', 'none', 'nor_conv_3x3'], Mean_ACC in cifar10_valid:89.5906666642252532, Mean_ACC in cifar10_test:92.3799999999999955, Mean_ACC in cifar100_valid:67.3466666381835921, Mean_ACC in cifar100_test:68.1333332967122374, Mean_ACC in ImageNet_valid:42.5999999457465321, Mean_ACC in ImageNet_test:41.6555554572211406
+Matrix:[[0 1 0 0]
+ [0 0 1 1]
+ [0 0 0 1]
+ [0 0 0 0]], Op_list:['nor_conv_3x3', 'none', 'nor_conv_1x1', 'none', 'nor_conv_3x3', 'avg_pool_3x3'], Mean_ACC in cifar10_valid:87.1839999967447881, Mean_ACC in cifar10_test:90.9966666666666697, Mean_ACC in cifar100_valid:62.9933333048502604, Mean_ACC in cifar100_test:63.4066666239420513, Mean_ACC in ImageNet_valid:27.5111110415988485, Mean_ACC in ImageNet_test:27.0555555352105053
+Matrix:[[0 1 1 1]
+ [0 0 1 0]
+ [0 0 0 1]
+ [0 0 0 0]], Op_list:['nor_conv_1x1', 'avg_pool_3x3', 'skip_connect', 'avg_pool_3x3', 'none', 'nor_conv_3x3'], Mean_ACC in cifar10_valid:86.6279999926757824, Mean_ACC in cifar10_test:90.1200000000000045, Mean_ACC in cifar100_valid:64.6999999755859392, Mean_ACC in cifar100_test:64.0799999816894541, Mean_ACC in ImageNet_valid:35.2999998982747414, Mean_ACC in ImageNet_test:36.6666665547688808
+Matrix:[[0 1 1 1]
+ [0 0 1 1]
+ [0 0 0 0]
+ [0 0 0 0]], Op_list:['nor_conv_3x3', 'nor_conv_3x3', 'nor_conv_3x3', 'nor_conv_3x3', 'nor_conv_3x3', 'none'], Mean_ACC in cifar10_valid:89.7866666585286453, Mean_ACC in cifar10_test:93.0533333333333417, Mean_ACC in cifar100_valid:69.6799999430338630, Mean_ACC in cifar100_test:69.9066666951497382, Mean_ACC in ImageNet_valid:39.4777777574327260, Mean_ACC in ImageNet_test:39.6444444105360176
+Matrix:[[0 0 0 1]
+ [0 0 1 1]
+ [0 0 0 1]
+ [0 0 0 0]], Op_list:['none', 'none', 'nor_conv_1x1', 'skip_connect', 'nor_conv_3x3', 'nor_conv_1x1'], Mean_ACC in cifar10_valid:84.4699999902343848, Mean_ACC in cifar10_test:86.9200000000000017, Mean_ACC in cifar100_valid:57.7699999694824271, Mean_ACC in cifar100_test:58.2199999999999989, Mean_ACC in ImageNet_valid:29.4833333028157547, Mean_ACC in ImageNet_test:27.1666666234334322
+Matrix:[[0 1 0 1]
+ [0 0 1 1]
+ [0 0 0 1]
+ [0 0 0 0]], Op_list:['nor_conv_1x1', 'none', 'nor_conv_3x3', 'skip_connect', 'nor_conv_3x3', 'nor_conv_1x1'], Mean_ACC in cifar10_valid:90.9979999841308569, Mean_ACC in cifar10_test:94.0300000000000011, Mean_ACC in cifar100_valid:71.8400000305175865, Mean_ACC in cifar100_test:72.1799999206542964, Mean_ACC in ImageNet_valid:46.1833333028157540, Mean_ACC in ImageNet_test:46.7333332875569667
+Matrix:[[0 1 1 1]
+ [0 0 0 1]
+ [0 0 0 1]
+ [0 0 0 0]], Op_list:['avg_pool_3x3', 'avg_pool_3x3', 'none', 'nor_conv_1x1', 'nor_conv_1x1', 'skip_connect'], Mean_ACC in cifar10_valid:85.5759999894205663, Mean_ACC in cifar10_test:88.8666666666666742, Mean_ACC in cifar100_valid:63.7133333170572982, Mean_ACC in cifar100_test:63.5999999572753936, Mean_ACC in ImageNet_valid:34.8666666598849773, Mean_ACC in ImageNet_test:33.9888888041178348
+Matrix:[[0 1 1 1]
+ [0 0 1 1]
+ [0 0 0 1]
+ [0 0 0 0]], Op_list:['avg_pool_3x3', 'skip_connect', 'avg_pool_3x3', 'avg_pool_3x3', 'nor_conv_1x1', 'avg_pool_3x3'], Mean_ACC in cifar10_valid:67.5720000008138157, Mean_ACC in cifar10_test:70.9033333333333502, Mean_ACC in cifar100_valid:34.9066666117350266, Mean_ACC in cifar100_test:34.8866666524251343, Mean_ACC in ImageNet_valid:16.7777777820163294, Mean_ACC in ImageNet_test:16.2777777684529639
+Matrix:[[0 0 0 1]
+ [0 0 1 1]
+ [0 0 0 1]
+ [0 0 0 0]], Op_list:['none', 'none', 'avg_pool_3x3', 'avg_pool_3x3', 'nor_conv_3x3', 'nor_conv_3x3'], Mean_ACC in cifar10_valid:71.8493333292643115, Mean_ACC in cifar10_test:75.9000000000000057, Mean_ACC in cifar100_valid:47.0066666402180999, Mean_ACC in cifar100_test:46.7799999491373697, Mean_ACC in ImageNet_valid:16.2333333155314143, Mean_ACC in ImageNet_test:15.8444444393581829
+Matrix:[[0 1 0 1]
+ [0 0 0 1]
+ [0 0 0 1]
+ [0 0 0 0]], Op_list:['skip_connect', 'none', 'none', 'skip_connect', 'nor_conv_3x3', 'nor_conv_1x1'], Mean_ACC in cifar10_valid:89.4199999926757840, Mean_ACC in cifar10_test:91.9350000000000023, Mean_ACC in cifar100_valid:67.8699998840332057, Mean_ACC in cifar100_test:66.6400000061035200, Mean_ACC in ImageNet_valid:40.2833333129882760, Mean_ACC in ImageNet_test:39.9999999338785841
+Matrix:[[0 1 1 0]
+ [0 0 1 1]
+ [0 0 0 0]
+ [0 0 0 0]], Op_list:['nor_conv_1x1', 'avg_pool_3x3', 'avg_pool_3x3', 'none', 'skip_connect', 'none'], Mean_ACC in cifar10_valid:86.0700000109863197, Mean_ACC in cifar10_test:88.8949999999999960, Mean_ACC in cifar100_valid:62.1499999816894544, Mean_ACC in cifar100_test:62.4100000213623076, Mean_ACC in ImageNet_valid:32.3500000000000014, Mean_ACC in ImageNet_test:32.0499999287923174
+Matrix:[[0 1 1 0]
+ [0 0 1 1]
+ [0 0 0 1]
+ [0 0 0 0]], Op_list:['skip_connect', 'skip_connect', 'skip_connect', 'none', 'skip_connect', 'avg_pool_3x3'], Mean_ACC in cifar10_valid:59.8059999963378885, Mean_ACC in cifar10_test:62.2750000000000057, Mean_ACC in cifar100_valid:33.2399999877929702, Mean_ACC in cifar100_test:34.3099999877929633, Mean_ACC in ImageNet_valid:14.1666666361490883, Mean_ACC in ImageNet_test:13.9499999885559092
+Matrix:[[0 0 1 1]
+ [0 0 1 1]
+ [0 0 0 1]
+ [0 0 0 0]], Op_list:['none', 'nor_conv_3x3', 'skip_connect', 'skip_connect', 'skip_connect', 'avg_pool_3x3'], Mean_ACC in cifar10_valid:88.2546666658528665, Mean_ACC in cifar10_test:91.1566666666666805, Mean_ACC in cifar100_valid:65.6799999755859432, Mean_ACC in cifar100_test:66.1799999959309844, Mean_ACC in ImageNet_valid:36.3555554707845090, Mean_ACC in ImageNet_test:35.7666666649712468
+Matrix:[[0 1 1 1]
+ [0 0 1 1]
+ [0 0 0 1]
+ [0 0 0 0]], Op_list:['nor_conv_1x1', 'skip_connect', 'avg_pool_3x3', 'avg_pool_3x3', 'skip_connect', 'avg_pool_3x3'], Mean_ACC in cifar10_valid:80.5986666691080842, Mean_ACC in cifar10_test:85.3866666666666561, Mean_ACC in cifar100_valid:52.3733333068847742, Mean_ACC in cifar100_test:52.1866666503906131, Mean_ACC in ImageNet_valid:24.5777777269151478, Mean_ACC in ImageNet_test:24.1111110856797950
+Matrix:[[0 1 1 0]
+ [0 0 1 0]
+ [0 0 0 1]
+ [0 0 0 0]], Op_list:['avg_pool_3x3', 'skip_connect', 'avg_pool_3x3', 'none', 'none', 'skip_connect'], Mean_ACC in cifar10_valid:77.3480000158691325, Mean_ACC in cifar10_test:79.6200000000000045, Mean_ACC in cifar100_valid:49.5199999450683634, Mean_ACC in cifar100_test:49.1899999664306620, Mean_ACC in ImageNet_valid:20.5666666666666664, Mean_ACC in ImageNet_test:19.2833333028157554
+Matrix:[[0 1 0 1]
+ [0 0 1 0]
+ [0 0 0 1]
+ [0 0 0 0]], Op_list:['skip_connect', 'none', 'nor_conv_3x3', 'nor_conv_1x1', 'none', 'skip_connect'], Mean_ACC in cifar10_valid:89.3359999918619820, Mean_ACC in cifar10_test:92.2633333333333354, Mean_ACC in cifar100_valid:67.5333333211263067, Mean_ACC in cifar100_test:68.0066666666666748, Mean_ACC in ImageNet_valid:40.6333333129882774, Mean_ACC in ImageNet_test:41.0333332722981723

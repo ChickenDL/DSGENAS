@@ -1,0 +1,80 @@
+Matrix:[[0 1 1 1]
+ [0 0 1 1]
+ [0 0 0 1]
+ [0 0 0 0]], Op_list:['nor_conv_3x3', 'nor_conv_3x3', 'nor_conv_3x3', 'skip_connect', 'nor_conv_3x3', 'nor_conv_1x1'], Mean_ACC in cifar10_valid:91.6066666503906362, Mean_ACC in cifar10_test:94.3733333333333348, Mean_ACC in cifar100_valid:72.7466666056315177, Mean_ACC in cifar100_test:73.2199999674479187, Mean_ACC in ImageNet_valid:45.5555555080837635, Mean_ACC in ImageNet_test:46.7111111280653191
+Matrix:[[0 1 0 1]
+ [0 0 1 1]
+ [0 0 0 1]
+ [0 0 0 0]], Op_list:['nor_conv_3x3', 'none', 'nor_conv_3x3', 'skip_connect', 'nor_conv_3x3', 'nor_conv_3x3'], Mean_ACC in cifar10_valid:91.3139999951171859, Mean_ACC in cifar10_test:94.1049999999999898, Mean_ACC in cifar100_valid:72.3700000305175735, Mean_ACC in cifar100_test:72.1099999816894410, Mean_ACC in ImageNet_valid:45.5833332468668573, Mean_ACC in ImageNet_test:46.3499999033610024
+Matrix:[[0 1 0 1]
+ [0 0 1 1]
+ [0 0 0 1]
+ [0 0 0 0]], Op_list:['nor_conv_3x3', 'none', 'nor_conv_3x3', 'skip_connect', 'nor_conv_3x3', 'nor_conv_3x3'], Mean_ACC in cifar10_valid:91.3139999951171859, Mean_ACC in cifar10_test:94.1049999999999898, Mean_ACC in cifar100_valid:72.3700000305175735, Mean_ACC in cifar100_test:72.1099999816894410, Mean_ACC in ImageNet_valid:45.5833332468668573, Mean_ACC in ImageNet_test:46.3499999033610024
+Matrix:[[0 1 0 1]
+ [0 0 1 0]
+ [0 0 0 1]
+ [0 0 0 0]], Op_list:['nor_conv_3x3', 'none', 'nor_conv_3x3', 'skip_connect', 'none', 'nor_conv_1x1'], Mean_ACC in cifar10_valid:91.2199999804687565, Mean_ACC in cifar10_test:94.1299999999999955, Mean_ACC in cifar100_valid:71.7199999877929741, Mean_ACC in cifar100_test:71.1199999755859409, Mean_ACC in ImageNet_valid:45.2333332010904954, Mean_ACC in ImageNet_test:44.2666666056315137
+Matrix:[[0 1 1 1]
+ [0 0 1 1]
+ [0 0 0 1]
+ [0 0 0 0]], Op_list:['nor_conv_3x3', 'nor_conv_3x3', 'nor_conv_3x3', 'nor_conv_1x1', 'nor_conv_3x3', 'nor_conv_3x3'], Mean_ACC in cifar10_valid:90.5739999865722609, Mean_ACC in cifar10_test:93.8249999999999886, Mean_ACC in cifar100_valid:69.9599999572753859, Mean_ACC in cifar100_test:70.4499999633789002, Mean_ACC in ImageNet_valid:44.1666666920979765, Mean_ACC in ImageNet_test:46.0666666107177747
+Matrix:[[0 1 1 1]
+ [0 0 1 1]
+ [0 0 0 1]
+ [0 0 0 0]], Op_list:['nor_conv_3x3', 'nor_conv_3x3', 'nor_conv_3x3', 'nor_conv_1x1', 'nor_conv_3x3', 'nor_conv_3x3'], Mean_ACC in cifar10_valid:90.5739999865722609, Mean_ACC in cifar10_test:93.8249999999999886, Mean_ACC in cifar100_valid:69.9599999572753859, Mean_ACC in cifar100_test:70.4499999633789002, Mean_ACC in ImageNet_valid:44.1666666920979765, Mean_ACC in ImageNet_test:46.0666666107177747
+Matrix:[[0 1 1 1]
+ [0 0 1 1]
+ [0 0 0 1]
+ [0 0 0 0]], Op_list:['nor_conv_3x3', 'nor_conv_3x3', 'nor_conv_3x3', 'nor_conv_1x1', 'nor_conv_3x3', 'nor_conv_3x3'], Mean_ACC in cifar10_valid:90.5739999865722609, Mean_ACC in cifar10_test:93.8249999999999886, Mean_ACC in cifar100_valid:69.9599999572753859, Mean_ACC in cifar100_test:70.4499999633789002, Mean_ACC in ImageNet_valid:44.1666666920979765, Mean_ACC in ImageNet_test:46.0666666107177747
+Matrix:[[0 1 1 1]
+ [0 0 1 1]
+ [0 0 0 1]
+ [0 0 0 0]], Op_list:['nor_conv_3x3', 'nor_conv_3x3', 'nor_conv_3x3', 'nor_conv_1x1', 'nor_conv_3x3', 'nor_conv_3x3'], Mean_ACC in cifar10_valid:90.5739999865722609, Mean_ACC in cifar10_test:93.8249999999999886, Mean_ACC in cifar100_valid:69.9599999572753859, Mean_ACC in cifar100_test:70.4499999633789002, Mean_ACC in ImageNet_valid:44.1666666920979765, Mean_ACC in ImageNet_test:46.0666666107177747
+Matrix:[[0 1 1 1]
+ [0 0 1 1]
+ [0 0 0 1]
+ [0 0 0 0]], Op_list:['nor_conv_3x3', 'nor_conv_3x3', 'nor_conv_3x3', 'nor_conv_1x1', 'nor_conv_3x3', 'nor_conv_3x3'], Mean_ACC in cifar10_valid:90.5739999865722609, Mean_ACC in cifar10_test:93.8249999999999886, Mean_ACC in cifar100_valid:69.9599999572753859, Mean_ACC in cifar100_test:70.4499999633789002, Mean_ACC in ImageNet_valid:44.1666666920979765, Mean_ACC in ImageNet_test:46.0666666107177747
+Matrix:[[0 1 1 1]
+ [0 0 1 1]
+ [0 0 0 1]
+ [0 0 0 0]], Op_list:['nor_conv_3x3', 'nor_conv_3x3', 'nor_conv_3x3', 'nor_conv_1x1', 'nor_conv_3x3', 'nor_conv_3x3'], Mean_ACC in cifar10_valid:90.5739999865722609, Mean_ACC in cifar10_test:93.8249999999999886, Mean_ACC in cifar100_valid:69.9599999572753859, Mean_ACC in cifar100_test:70.4499999633789002, Mean_ACC in ImageNet_valid:44.1666666920979765, Mean_ACC in ImageNet_test:46.0666666107177747
+Matrix:[[0 1 1 1]
+ [0 0 1 1]
+ [0 0 0 1]
+ [0 0 0 0]], Op_list:['nor_conv_3x3', 'nor_conv_3x3', 'nor_conv_3x3', 'nor_conv_1x1', 'nor_conv_3x3', 'nor_conv_3x3'], Mean_ACC in cifar10_valid:90.5739999865722609, Mean_ACC in cifar10_test:93.8249999999999886, Mean_ACC in cifar100_valid:69.9599999572753859, Mean_ACC in cifar100_test:70.4499999633789002, Mean_ACC in ImageNet_valid:44.1666666920979765, Mean_ACC in ImageNet_test:46.0666666107177747
+Matrix:[[0 1 1 1]
+ [0 0 1 1]
+ [0 0 0 0]
+ [0 0 0 0]], Op_list:['nor_conv_3x3', 'nor_conv_3x3', 'nor_conv_3x3', 'nor_conv_1x1', 'nor_conv_3x3', 'none'], Mean_ACC in cifar10_valid:89.9999999914550699, Mean_ACC in cifar10_test:93.0600000000000023, Mean_ACC in cifar100_valid:69.4200000274658180, Mean_ACC in cifar100_test:70.0199999999999960, Mean_ACC in ImageNet_valid:43.5499999287923174, Mean_ACC in ImageNet_test:44.3166666361490940
+Matrix:[[0 1 1 1]
+ [0 0 1 1]
+ [0 0 0 1]
+ [0 0 0 0]], Op_list:['nor_conv_3x3', 'nor_conv_3x3', 'nor_conv_3x3', 'nor_conv_1x1', 'nor_conv_3x3', 'nor_conv_3x3'], Mean_ACC in cifar10_valid:90.5739999865722609, Mean_ACC in cifar10_test:93.8249999999999886, Mean_ACC in cifar100_valid:69.9599999572753859, Mean_ACC in cifar100_test:70.4499999633789002, Mean_ACC in ImageNet_valid:44.1666666920979765, Mean_ACC in ImageNet_test:46.0666666107177747
+Matrix:[[0 1 1 1]
+ [0 0 1 1]
+ [0 0 0 1]
+ [0 0 0 0]], Op_list:['nor_conv_3x3', 'nor_conv_3x3', 'nor_conv_3x3', 'nor_conv_1x1', 'nor_conv_3x3', 'nor_conv_3x3'], Mean_ACC in cifar10_valid:90.5739999865722609, Mean_ACC in cifar10_test:93.8249999999999886, Mean_ACC in cifar100_valid:69.9599999572753859, Mean_ACC in cifar100_test:70.4499999633789002, Mean_ACC in ImageNet_valid:44.1666666920979765, Mean_ACC in ImageNet_test:46.0666666107177747
+Matrix:[[0 1 1 1]
+ [0 0 1 1]
+ [0 0 0 1]
+ [0 0 0 0]], Op_list:['nor_conv_3x3', 'nor_conv_3x3', 'nor_conv_3x3', 'nor_conv_1x1', 'nor_conv_3x3', 'nor_conv_3x3'], Mean_ACC in cifar10_valid:90.5739999865722609, Mean_ACC in cifar10_test:93.8249999999999886, Mean_ACC in cifar100_valid:69.9599999572753859, Mean_ACC in cifar100_test:70.4499999633789002, Mean_ACC in ImageNet_valid:44.1666666920979765, Mean_ACC in ImageNet_test:46.0666666107177747
+Matrix:[[0 1 1 1]
+ [0 0 1 1]
+ [0 0 0 1]
+ [0 0 0 0]], Op_list:['nor_conv_3x3', 'nor_conv_3x3', 'nor_conv_3x3', 'nor_conv_1x1', 'nor_conv_3x3', 'nor_conv_3x3'], Mean_ACC in cifar10_valid:90.5739999865722609, Mean_ACC in cifar10_test:93.8249999999999886, Mean_ACC in cifar100_valid:69.9599999572753859, Mean_ACC in cifar100_test:70.4499999633789002, Mean_ACC in ImageNet_valid:44.1666666920979765, Mean_ACC in ImageNet_test:46.0666666107177747
+Matrix:[[0 1 1 1]
+ [0 0 1 1]
+ [0 0 0 1]
+ [0 0 0 0]], Op_list:['nor_conv_3x3', 'nor_conv_3x3', 'nor_conv_3x3', 'nor_conv_1x1', 'nor_conv_3x3', 'nor_conv_3x3'], Mean_ACC in cifar10_valid:90.5739999865722609, Mean_ACC in cifar10_test:93.8249999999999886, Mean_ACC in cifar100_valid:69.9599999572753859, Mean_ACC in cifar100_test:70.4499999633789002, Mean_ACC in ImageNet_valid:44.1666666920979765, Mean_ACC in ImageNet_test:46.0666666107177747
+Matrix:[[0 1 1 1]
+ [0 0 1 1]
+ [0 0 0 1]
+ [0 0 0 0]], Op_list:['nor_conv_3x3', 'nor_conv_3x3', 'nor_conv_3x3', 'nor_conv_1x1', 'nor_conv_3x3', 'nor_conv_3x3'], Mean_ACC in cifar10_valid:90.5739999865722609, Mean_ACC in cifar10_test:93.8249999999999886, Mean_ACC in cifar100_valid:69.9599999572753859, Mean_ACC in cifar100_test:70.4499999633789002, Mean_ACC in ImageNet_valid:44.1666666920979765, Mean_ACC in ImageNet_test:46.0666666107177747
+Matrix:[[0 1 1 1]
+ [0 0 1 1]
+ [0 0 0 1]
+ [0 0 0 0]], Op_list:['nor_conv_3x3', 'nor_conv_3x3', 'nor_conv_3x3', 'nor_conv_1x1', 'nor_conv_3x3', 'nor_conv_3x3'], Mean_ACC in cifar10_valid:90.5739999865722609, Mean_ACC in cifar10_test:93.8249999999999886, Mean_ACC in cifar100_valid:69.9599999572753859, Mean_ACC in cifar100_test:70.4499999633789002, Mean_ACC in ImageNet_valid:44.1666666920979765, Mean_ACC in ImageNet_test:46.0666666107177747
+Matrix:[[0 1 1 1]
+ [0 0 1 1]
+ [0 0 0 1]
+ [0 0 0 0]], Op_list:['nor_conv_3x3', 'nor_conv_3x3', 'nor_conv_3x3', 'nor_conv_1x1', 'nor_conv_3x3', 'nor_conv_3x3'], Mean_ACC in cifar10_valid:90.5739999865722609, Mean_ACC in cifar10_test:93.8249999999999886, Mean_ACC in cifar100_valid:69.9599999572753859, Mean_ACC in cifar100_test:70.4499999633789002, Mean_ACC in ImageNet_valid:44.1666666920979765, Mean_ACC in ImageNet_test:46.0666666107177747
