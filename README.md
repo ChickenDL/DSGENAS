@@ -184,4 +184,3 @@ If you find this repository helpful for your research, please consider citing th
 
 - Submit issues on GitHub for technical problems, questions, or suggestions — our team will do our best to respond promptly.
 - Contact us at [xueyu[at]nuist[dot]edu[dot]cn](xueyu@nuist.edu.cn) (Yu Xue) and [xlzhang[at]nuist[dot]edu[dot]cn](xlzhang@nuist.edu.cn) (Xiaolei Zhang) to discuss topics related to Neural Architecture Search, Evolutionary Deep Learning, or Model Optimization.
-# DSGENAS
