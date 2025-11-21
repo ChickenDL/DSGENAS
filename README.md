@@ -171,12 +171,16 @@ You can compare embeddings from different models (e.g., adjacency encoding, GNN 
 If you find this repository helpful for your research, please consider citing the following paper:
 
 ```text
-@article{DSGENAS,
-  title={Graph Neural Network based Surrogate Model for Evolutionary Neural Architecture Search},
-  author={Yu Xue and Xiaolei Zhang and Ferrante Neri and Bing Xue and Mengjie Zhang},
-  journal={IEEE Transactions on Systems, Man, and Cybernetics: Systems},
+@ARTICLE{DSGENAS,
+  author={Xue, Yu and Zhang, Xiaolei and Neri, Ferrante and Xue, Bing and Zhang, Mengjie},
+  journal={IEEE Transactions on Systems, Man, and Cybernetics: Systems}, 
+  title={Graph Neural Network-Based Surrogate Model for Evolutionary Neural Architecture Search}, 
   year={2025},
-  note={{DOI: 10.1109/TSMC.2025.3621488 (Early access)}}
+  volume={55},
+  number={12},
+  pages={9631-9644},
+  keywords={Computer architecture;Training;Predictive models;Computational modeling;Encoding;Optimization;Neural architecture search;Feature extraction;Network architecture;Costs;Evolutionary deep learning;graph neural network (GNN);neural architecture search (NAS);surrogate model},
+  doi={10.1109/TSMC.2025.3621488}
 }
 ```
 
